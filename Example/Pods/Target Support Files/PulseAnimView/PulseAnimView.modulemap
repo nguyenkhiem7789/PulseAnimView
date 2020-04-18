@@ -1,0 +1,6 @@
+framework module PulseAnimView {
+  umbrella header "PulseAnimView-umbrella.h"
+
+  export *
+  module * { export * }
+}

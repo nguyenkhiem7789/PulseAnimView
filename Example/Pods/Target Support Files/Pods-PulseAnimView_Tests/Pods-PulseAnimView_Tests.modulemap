@@ -1,0 +1,6 @@
+framework module Pods_PulseAnimView_Tests {
+  umbrella header "Pods-PulseAnimView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
