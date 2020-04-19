@@ -32,7 +32,7 @@ In storyboard you cread a PulseAnimView:
 
 <img src="https://user-images.githubusercontent.com/18132015/79683188-7334f100-8252-11ea-98c2-01937bd2d1a7.png"/>
 
-To pulse animation under a view, you can set in swift code: 
+To pulse animation below a view, you can set in swift code: 
 
         diecPhiImageView.about(view: self.view)
 
