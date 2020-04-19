@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import PulseAnimView
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var diecPhiImageView: PulseAnimView!
+
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        diecPhiImageView.about(view: self.view)
     }
 
     override func didReceiveMemoryWarning() {

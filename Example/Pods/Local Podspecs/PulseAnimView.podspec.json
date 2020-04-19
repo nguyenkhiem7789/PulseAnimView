@@ -1,9 +1,9 @@
 {
   "name": "PulseAnimView",
   "version": "0.1.0",
-  "summary": "A short description of PulseAnimView.",
+  "summary": "Create libs push animation view",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/nguyenkhiem7789@gmail.com/PulseAnimView",
+  "homepage": "https://github.com/nguyenkhiem7789/PulseAnimView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,13 @@
     "nguyenkhiem7789@gmail.com": "nguyenkhiem7789@gmail.com"
   },
   "source": {
-    "git": "https://github.com/nguyenkhiem7789@gmail.com/PulseAnimView.git",
+    "git": "https://github.com/nguyenkhiem7789/PulseAnimView.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "PulseAnimView/Classes/**/*"
+  "swift_versions": "4.0",
+  "source_files": "PulseAnimView/Classes/**/*",
+  "swift_version": "4.0"
 }
