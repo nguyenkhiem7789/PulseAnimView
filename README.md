@@ -7,6 +7,10 @@
 
 https://www.youtube.com/watch?v=Njnc3USRIzw
 
+<img src="https://user-images.githubusercontent.com/18132015/79683111-f0ac3180-8251-11ea-8d27-f423ca659db9.png" width="300"/>
+
+<img src="https://user-images.githubusercontent.com/18132015/79683114-f43fb880-8251-11ea-98ae-3b6e0893af6d.png" width="300"/>
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
