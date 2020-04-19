@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/PulseAnimView.svg?style=flat)](https://cocoapods.org/pods/PulseAnimView)
 [![Platform](https://img.shields.io/cocoapods/p/PulseAnimView.svg?style=flat)](https://cocoapods.org/pods/PulseAnimView)
 
-![](https://www.youtube.com/watch?v=Njnc3USRIzw)
+https://www.youtube.com/watch?v=Njnc3USRIzw
 
 ## Example
 
